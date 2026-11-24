@@ -1,0 +1,6 @@
+{
+  "name": "Sales Prediction and Forecasting using ML",
+  "description": "End-to-end Machine Learning and Business Intelligence platform for historical sales analysis, model training, revenue prediction, and future time-series forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
